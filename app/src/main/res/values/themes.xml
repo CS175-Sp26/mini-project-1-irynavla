@@ -1,7 +1,18 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Project1IrynaVlasiuk" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.Project1IrynaVlasiuk" parent="Theme.Material3.DayNight">
         <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/purple</item>
+
+        <item name="colorSurface">@color/purple</item>
+        <item name="colorPrimaryContainer">@color/purple</item>
+
+        <item name="colorOnSurface">#FFFFFF</item>
+        <item name="colorOnPrimaryContainer">#FFFFFF</item>
+
+        <item name="android:colorBackground">#FFFFFF</item>
+        <item name="colorSecondary">@color/green</item>
+        <item name="colorControlActivated">@color/green</item>
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 

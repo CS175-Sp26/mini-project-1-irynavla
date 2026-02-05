@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Project1IrynaVlasiuk</string>
+    <string name="app_name">Mortgage Calculator by Iryna Vlasiuk</string>
+    <string name="label_principle">Enter Principle ($):</string>
+    <string name="interest_rate_label">Interest rate: %.1f%%</string>
+    <string name="loan_term">Select Loan Term</string>
+    <string name="radio_1">15 years</string>
+    <string name="radio_2">20 years</string>
+    <string name="radio_3">30 years</string>
+    <string name="button_calculate">CALCULATE</string>
+    <string name="button_uninstall">UNINSTALL</string>
+    <string name="taxes_insurance">Include taxes and insurance (0.1%)</string>
+    <string name="press_calculate">Press CALCULATE for monthly payments.</string>
+    <string name="empty">Please enter the principle.</string>
+    <string name="then_calculate">Then Press CALCULATE for monthly payments.</string>
+    <string name="wrong">Please enter a valid number. 2 decimal digits max.</string>
 </resources>

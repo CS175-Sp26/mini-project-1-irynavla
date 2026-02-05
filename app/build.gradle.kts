@@ -7,6 +7,9 @@ android {
     compileSdk {
         version = release(36)
     }
+    buildFeatures {
+        viewBinding = true
+    }
 
     defaultConfig {
         applicationId = "edu.sjsu.android.project1irynavlasiuk"
